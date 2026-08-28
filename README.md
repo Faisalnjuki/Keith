@@ -28,7 +28,7 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://keithsite.top/keithpair">
+      <a href="https://keithsite.lol/keithpair">
         <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
@@ -46,7 +46,7 @@
       <b>DEPLOY</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://keithsite.top/heroku">
+      <a href="https://keithsite.lol/heroku">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
