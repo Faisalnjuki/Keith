@@ -1,16 +1,8 @@
-
-
 <h1 align="center">KEITH-MD</h1>
-
-
-
 
 <div style="text-align: center;">
   <a href="https://apiskeith.top">
     <img src="https://i.ibb.co/PsZnb9NH/0d81ac6b1fb1.jpg" alt="01" border="0" /></a>
-  </a>
-
-  </a>
   <hr style="margin-top: 20px; margin-bottom: 20px;"/>
 </div>
 
@@ -51,11 +43,15 @@
       </a>
     </td>
   </tr>
+  <!-- New row for Keith Hosting -->
+  <tr>
+    <td colspan="2" align="center">
+      <b>KEITH HOSTING</b><br>
+      Host your bot on Keith's official hosting platform.
+      <br><br>
+      <a href="https://hosting.keithsite.lol">
+        <img src="https://img.shields.io/badge/Host%20Now-hosting.keithsite.lol-brightgreen" alt="Keith Hosting" width="300">
+      </a>
+    </td>
+  </tr>
 </table>
-
-
-
-
-  </a>
-</p>
-
